@@ -4,79 +4,79 @@
 const CONFIG_SEMANAL = {
     titulo: "Calendario Junio 2026",
     cliente: "Pierina Vega",
-    rangoFechas: "✨ Semana del martes 16 al sábado 20 de junio ✨",
+    rangoFechas: "✨ Semana del martes 23 al sábado 27 de junio ✨",
     usuarioInstagram: "pierina.agenteinmobiliario",
     avatarLetras: "PV",
 
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 16 de Junio",
-            copy: `🌱 Viviendas verdes: El ahorro que el mercado exige hoy
+            diaSemana: "Martes 23 de Junio",
+            copy: `Tu agente inmobiliario te podría estar haciendo perder dinero 💸❌
 
-Ya no son opcionales. Invertir en una propiedad sostenible reduce el impacto ambiental y cuida tu bolsillo a largo plazo con estas ventajas:
+No todos trabajan igual. Si vas a comprar o vender, exige esto:
 
-💡 Menor gasto en luz y agua.
-🌿 Espacios más saludables.
+📍 Precios reales: Que domine los valores actuales de tu zona.
+💼 Cero sorpresas: Transparencia total con los impuestos y trámites.
+🎯 Estrategia: Un plan de marketing real, no solo subir fotos a internet.
 
-📈 Mayor valor de reventa en el futuro.
+Guarda este post para proteger tu inversión en tu próxima mudanza. 📌
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
-            imagenes: ["img/16.jpg"] 
+            imagenes: ["img/23.jpg"] 
         },
         {
-            tipo: "carrusel",
-            diaSemana: "Jueves 18 de Junio",
-            copy: `🤫 ¿Cero ruidos molestos? Tu propio piso en Las Lomas, La Molina
+            tipo: "video",
+            diaSemana: "Jueves 25 de Junio",
+            copy: `¿Por qué todos están invirtiendo en Chorrillos hoy? 🌊📈
 
-Privacidad total en un segundo piso donde no compartes paredes con ningún vecino. Ideal para quienes buscan exclusividad en la zona más tranquila y cotizada del distrito.
+Este distrito se ha convertido en el favorito para comprar departamentos debido a su alta rentabilidad y rápido crecimiento.
 
-Precio: US$ 150,000
-
-Espacio: 3 dormitorios (principal con baño propio).
-
-Extras: Cocina cerrada, lavandería y cochera.
-
-📩 ¿Quieres ser el único dueño de este piso? Agenda tu visita escribiéndonos por mensaje directo.
+💸 Más valor: Tu propiedad gana plusvalía acelerada por la renovación del distrito.
+🎯 Negocio redondo: Alta demanda de alquileres tradicionales y por Airbnb (turismo y universidades).
+🚗 Ruta rápida: Conexión directa a la Costa Verde, Vía Expresa y balnearios del sur.
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
-            imagenes: ["img/18.jpg","img/18_2.jpg","img/18_3.jpg","img/18_4.jpg","img/18_5.jpg"]
+            imagenes: ["img/25.jpg"]
         },
         {
             tipo: "imagen",
-            diaSemana: "Viernes 19 de Junio",
-            copy: `📈 Adiós a la intuición: Hoy el mercado se domina con datos
+            diaSemana: "Viernes 26 de Junio",
+            copy: `El mercado inmobiliario está lleno de oportunidades, pero hay que saber encontrarlas. 🎯🏠
 
-Invertir a ciegas ya no es una opción. El análisis de datos te permite identificar las zonas con mayor crecimiento de valor, tendencias de precios y oportunidades reales antes que el resto. La información correcta hoy define el éxito de tu inversión mañana.
+Si quieres estar al tanto de nuevas opciones de inversión, departamentos disponibles y los mejores consejos para comprar o vender con seguridad, te invito a seguirme por aquí.
 
-💬 ¿Eres de los que analiza los números o te dejas llevar por la intuición? Te leo en los comentarios.
+En mis redes comparto:
+🎬 Recorridos en video y proyectos exclusivos.
+📊 Datos clave del sector y consejos legales explicados simple.
+💼 Oportunidades del mercado antes de que dejen de estar disponibles.
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
             imagenes: [
-                "img/19.jpg"
+                "img/26.jpg"
             ]
         },
         {
-            tipo: "carrusel",
-            diaSemana: "Sábado 20 de Junio",
-            copy: `🔥 ¡BAJÓ DE PRECIO! Terreno en límite de Barranco y Chorrillos
+            tipo: "video",
+            diaSemana: "Sábado 27 de Junio",
+            copy: `¡Oportunidad única en el límite de Barranco y Chorrillos! 📐🏢
 
-Ubicación estratégica con alta rentabilidad, ideal para construir departamentos o tu próximo negocio. Zona totalmente conectada, tranquila y con documentos 100% en regla para iniciar el proyecto de inmediato.
+Terreno estratégico con alta rentabilidad, ideal para constructoras, proyectos de departamentos o tu próximo negocio en una zona de alta demanda.
 
-Inversión: US$ 463,500
-
-Estado: Listo para construir.
+💵 Inversión: USD 463,500
+📍 Ubicación: Totalmente conectada, tranquila y con excelente flujo comercial/residencial.
+⚖️ Legal: Documentos 100% en regla y partida limpia para iniciar obra de inmediato.
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
-            imagenes: ["img/20.jpg","img/20_2.jpg","img/20_3.jpg","img/20_4.jpg"]
+            imagenes: ["img/27.jpg"]
         }
     ]
 };
