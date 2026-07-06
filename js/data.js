@@ -2,76 +2,81 @@
    DATOS COMPARTIDOS DEL CALENDARIO (Modificar solo este archivo cada viernes)
    ========================================================================== */
 const CONFIG_SEMANAL = {
-    titulo: "Calendario Junio 2026",
+    titulo: "Calendario Julio 2026",
     cliente: "Pierina Vega",
-    rangoFechas: "✨ Semana del martes 30 de junio al sábado 04 de julio ✨",
+    rangoFechas: "✨ Semana del martes 07 al sábado 11 de julio ✨",
     usuarioInstagram: "pierina.agenteinmobiliario",
     avatarLetras: "PV",
 
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 30 de Junio",
-            copy: `🚀 ¡Lima Norte no para de subir!
-La nueva planificación urbana está transformando la zona, atrayendo inversiones y disparando su valor. 📈 Donde otros ven cemento, hoy hay una oportunidad de oro para capitalizar tu futuro. 🏗️
+            diaSemana: "Martes 07 de Julio",
+            copy: `🏡 El nuevo lujo es la funcionalidad. 
 
-El crecimiento ordenado es tu mejor aliado. Mira donde los demás apenas empezarán a fijarse mañana. 🎯
+Hoy, comprar bien no significa comprar grande. Los compradores inteligentes priorizan tres pilares:
 
-👇 ¿Listo para asegurar tu próxima inversión en la zona de mayor potencial?
-Guarda este post para proteger tu inversión en tu próxima mudanza. 📌
+> Distribución eficiente.
+> Ubicación estratégica.
+> Valor a largo plazo.
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
-            imagenes: ["img/30.jpg"] 
+            imagenes: ["img/7.jpg"] 
         },
         {
-            tipo: "reel",
-            diaSemana: "Jueves 02 de Julio",
-            copy: `🤫 ¿Cero ruidos molestos? Tu propio piso en Las Lomas, La Molina
+            tipo: "video",
+            diaSemana: "Jueves 09 de Julio",
+            copy: `¿Buscas terreno para tu próximo proyecto? 🏗️
 
-Privacidad total en un segundo piso donde no compartes paredes con ningún vecino. Ideal para quienes buscan exclusividad en la zona más tranquila y cotizada del distrito.
+Ubicación clave entre Barranco y Chorrillos con el flujo que tu negocio necesita.
+✅ Zona de alta plusvalía.
+✅ Documentación lista para firma.
+✅ Inversión: USD 463,500.
 
-Precio: US$ 150,000
-
-Espacio: 3 dormitorios (principal con baño propio).
-
-Extras: Cocina cerrada, lavandería y cochera.
-
-📩 ¿Quieres ser el único dueño de este piso? Agenda tu visita escribiéndonos por mensaje directo.
+No pierdas tiempo en trámites, arranca tu obra hoy mismo. ¿Agendamos una visita? 🔑
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
-            imagenes: ["img/2.jpg","img/2_2.jpg","img/2_3.jpg","img/2_4.jpg","img/2_5.jpg"]
+            imagenes: ["img/9.jpg"]
         },
         {
-            tipo: "imagen",
-            diaSemana: "Viernes 03 de Julio",
-            copy: `📈 El mercado inmobiliario no se detiene
-Las ventas de viviendas alcanzan cifras históricas y confirman que los bienes raíces son la decisión más sólida para construir tu patrimonio. 🏗️ El mercado avanza rápido y las mejores oportunidades no esperan. ⏳
+            tipo: "video",
+            diaSemana: "Viernes 10 de Julio",
+            copy: `El mercado financiero se mueve. ¿Lo estás aprovechando? 📊
 
-¿Estás dejando pasar el momento perfecto para invertir? 🏠
+Hay más competencia entre bancos, y eso es una gran noticia para ti:
+✅ Más opciones para comparar.
+✅ Mejores condiciones de crédito.
+✅ Mayor dinamismo para comprar.
+
+Informarte hoy es la diferencia entre una mala decisión y una inversión inteligente. ¿Ya comparaste las nuevas tasas?
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
             imagenes: [
-                "img/3.jpg"
+                "img/10.jpg"
             ]
         },
         {
-            tipo: "video",
-            diaSemana: "Sábado 04 de Julio",
-            copy: `📍 Terreno clave: Límite Barranco y Chorrillos 🏢
-Oportunidad estratégica de alta rentabilidad para tu próximo proyecto residencial o comercial. 🏗️ Ubicación top con flujo constante, documentos en regla y partida limpia para que arranques tu obra hoy mismo. 🔑
+            tipo: "imagen",
+            diaSemana: "Sábado 11 de Julio",
+            copy: `Transparencia: La nueva plusvalía inmobiliaria. ✨
 
-💵 Inversión: USD 463,500.
+Vender es fácil; generar confianza es lo difícil.
+El futuro del sector inmobiliario no está solo en construir edificios, sino en construir relaciones claras y responsables con los clientes.
+
+Procesos transparentes = Clientes con tranquilidad.
+
+¿Estás de acuerdo en que la honestidad es el activo más importante del sector hoy? 👇
 .
 .
 Pierina Vega | Agente Inmobiliario | MVCS / PN - 13557
 WhatsApp: https://wa.me/51999214678`,
-            imagenes: ["img/4.jpg"]
+            imagenes: ["img/11.jpg"]
         }
     ]
 };
