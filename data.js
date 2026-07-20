@@ -32,7 +32,7 @@ const CONFIG_SEMANAL = {
        2. DATOS DE LA SEMANA
     ------------------------------------------------------------------------ */
     titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del martes 14 al sábado 18 de julio",
+    rangoFechas: "Semana del martes 21 al sábado 25 de julio",
 
     /* ------------------------------------------------------------------------
        3. PUBLICACIONES
@@ -48,63 +48,44 @@ const CONFIG_SEMANAL = {
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 14 de julio",
-            imagenes: ["img/14.jpg"],
-            copy: `¿Invertir antes de que todos lo hagan? Esa es la clave. 📈
+            diaSemana: "Martes 21 de julio",
+            imagenes: ["img/21.jpg"],
+            copy: `🚨 Una propiedad "bonita" no siempre es una buena inversión.
 
-No compres solo por la zona de hoy; invierte en el futuro de un distrito. Las grandes obras de infraestructura están transformando la rentabilidad de las propiedades.
+Los acabados se pueden cambiar, pero la ubicación y la proyección de crecimiento, no. No te dejes llevar por la fachada; enfócate en lo que realmente asegura tu patrimonio a largo plazo. 📈
 
-Hoy, un inversionista inteligente analiza:
-
-🚉 Acceso real al transporte.
-🏙️ Conectividad estratégica.
-📈 Potencial de valorización a mediano plazo.
-
-Ver el potencial de una zona antes que los demás es lo que separa a un comprador común de un inversionista exitoso.`
+🔑 Te ayudo a identificar oportunidades con alta plusvalía. Hablemos. 📩`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 16 de julio",
-            imagenes: ["img/16.jpg"],
-            copy: `¿Por qué San Martín es el nuevo foco de los inversionistas? 📈
-
-El turismo en San Martín ha crecido un 30% y el mercado ya está reaccionando. Donde hay turismo, hay demanda de alojamiento, servicios y desarrollos inmobiliarios.
-
-¿Qué significa esto para ti?
-✅ Oportunidades únicas: El crecimiento del sector activa proyectos que hoy tienen precios atractivos antes de la saturación.
-✅ Rentabilidad: Los proyectos inmobiliarios en zonas de alto tráfico turístico tienen retornos más rápidos.
-✅ Valorización: El desarrollo privado está transformando la región.
-
-No esperes a que los precios suban cuando la región ya esté consolidada. Infórmate hoy y toma la delantera.`
+            diaSemana: "Jueves 23 de julio",
+            imagenes: ["img/23.jpg"],
+            copy: `¡Feliz día a toda la Fuerza Aérea del Perú! 🦅 Hoy celebramos el orgullo de nuestra aviación y el heroísmo de nuestro gran Capitán Quiñones. Gracias por cuidar nuestro cielo con tanta dedicación. 🇵🇪💙`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 17 de julio",
-            imagenes: ["img/17.jpg"],
-            copy: `🤔 ¿Tu dinero está creciendo... o solo está esperando? 💸
+            diaSemana: "Viernes 24 de julio",
+            imagenes: ["img/24.jpg"],
+            copy: `⏳ Las mejores propiedades ni siquiera llegan a publicarse en portales.
 
-Tener ahorros en el banco es ver cómo pierden valor cada día. Una propiedad bien elegida, en cambio, es el activo que construye tu futuro.
+En el mercado actual, la velocidad y la información privilegiada lo son todo. Si esperas a que la propiedad esté "a la vista de todos", probablemente ya perdiste la oportunidad de una mejor negociación.
 
-No dejes que tu capital se estanque.`
+🚀 ¿Quieres acceso a oportunidades antes que nadie? Hablemos. 📲`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 18 de julio",
-            imagenes: ["img/18.jpg"],
-            copy: `¿Terreno para tu proyecto? Esta es tu oportunidad. 🏗️
+            diaSemana: "Sábado 25 de julio",
+            imagenes: ["img/25.jpg"],
+            copy: `¡Impulsa tu proyecto en la zona de mayor crecimiento entre Barranco y Chorrillos! 📈🏗️
 
-Ubicación estratégica entre Barranco y Chorrillos: el punto con el flujo comercial que tu negocio exige.
+Este terreno cuenta con documentación impecable y alta rentabilidad. 💸
+Precio: USD 463,500. 💰
+Estado: Listo para transferencia inmediata. 🤝
 
-✅ Alta rentabilidad: Zona de creciente plusvalía.
-✅ Lista para operar: Documentación en regla, ¡listos para firma!
-✅ Inversión: USD 463,500.
-
-No pierdas tiempo en trabas legales; arranca tu obra hoy mismo.
-
-📲 ¿Agendamos visita? Escríbeme por DM.`
+¡No dejes pasar esta oportunidad! 🚀 Envíame un mensaje y coordinamos una visita. 📲✨`
         }
     ]
 };
